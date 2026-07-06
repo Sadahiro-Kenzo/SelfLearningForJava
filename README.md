@@ -1,0 +1,2 @@
+# SelfLearningForJava
+Java言語学習、Webアプリ開発学習のためのリポジトリ
